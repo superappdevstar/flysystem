@@ -27,7 +27,7 @@ class DropboxAdapter implements Flysystem\FilesystemAdapter
 {
     /** @var \Spatie\Dropbox\Client */
     protected $client;
-
+    /* comment */
     /** @var \League\Flysystem\PathPrefixer */
     protected $prefixer;
 
